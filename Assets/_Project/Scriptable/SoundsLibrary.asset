@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c20b7d315280a844291121d8ec89b054, type: 3}
+  m_Name: SoundsLibrary
+  m_EditorClassIdentifier: 
+  _clips:
+  - <Name>k__BackingField: Hit
+    <Clip>k__BackingField: {fileID: 8300000, guid: a89c2df2bc3f5db4999fcbb6dc0a44bd,
+      type: 3}
